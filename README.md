@@ -1,4 +1,3 @@
 # priactice
 
 hellow world
-nrw
